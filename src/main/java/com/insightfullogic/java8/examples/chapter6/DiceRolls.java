@@ -28,6 +28,7 @@ public class DiceRolls {
             "5"
         };
         Main.main(args);
+        
     }
 
     @GenerateMicroBenchmark
